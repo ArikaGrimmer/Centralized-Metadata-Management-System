@@ -9,7 +9,6 @@ public class MetadataColumn {
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY)
   private Long id;
-
   private String columnName;
   private String tableName;
   private String schemaName;
