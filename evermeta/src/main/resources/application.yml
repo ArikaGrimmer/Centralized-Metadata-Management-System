@@ -1,0 +1,5 @@
+search:
+  synonyms:
+    acc_num: [account_number]
+    loan_reference: [loan_id]
+    due_date: [maturity_date]
